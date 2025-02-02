@@ -1,0 +1,142 @@
+#container{
+    margin: auto;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#main{
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: center;
+    margin: 32px 9px 0;
+    padding-bottom: 32px;
+}
+#app{
+    margin-right: 32px;
+    margin-bottom: 12px;
+}
+#dialog{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 12px;
+}
+.box{
+    border: 1px solid #DBDBDB;
+    margin-bottom: 10px;
+    padding: 0 10px;
+}
+#loginForm{
+    margin-top: 24px;
+}
+.name{
+    margin: 36px 45px 12px;
+}
+.inputing{
+    margin: 0 30px 6px;
+    height: 36px;
+    width: 266px;
+}
+input{
+    padding: 9px 0 7px 8px;
+    width: 256px;
+    border: 1px solid #DBDBDB;
+}
+#logword{
+    color: white;
+    background-color: #4CB5F9;
+    border-radius: 6px;
+    font-weight: bold;
+    border: none;
+}
+.signup{
+    margin: 15px;
+    padding: 10px;
+    text-align: center;
+}
+#sign{
+    color: #0095F6;
+    font-weight: 600;
+}
+
+.or{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 14px 30px 22px;
+}
+.line{
+    background-color:  #DBDBDB;
+    height: 1px;
+    width: 40%;
+}
+.mid-or{
+    margin: 0 18px;
+    font-size: 12px;
+    font-weight: 600;
+    color: #6C6C6C;
+}
+
+.logWithFacebook{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 14px 75px 22px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #0095F6;
+    font-weight: 600;
+}
+.logWithFacebook:hover{
+    color: rgb(14, 13, 84);
+}
+#fb{
+    padding-right: 5px;
+    height: 18px;
+}
+.fpass{
+    text-align: center;
+    height: 36px;
+}
+
+.gettheapp{
+    text-align: center;
+    margin: 10px 20px;
+}
+.gettheapp2{
+    display: flex;
+    justify-content:center;
+    margin: 10px 0;
+}
+.gettheapp2 img{
+    height: 40px;
+}
+
+.footer{
+    padding: 0 16px;
+}
+.content{
+    margin-bottom: 52px;
+}
+.foot1 , .foot2{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    color: #6C6C6C;
+}
+.foot1 a, .foot2 a{
+    color: #6C6C6C;
+    margin: 0 8px 12px;
+    font-size: 12px;
+}
+.foot1{
+    margin-top: 24px;
+}
+.foot2{
+    margin: 12px;
+}

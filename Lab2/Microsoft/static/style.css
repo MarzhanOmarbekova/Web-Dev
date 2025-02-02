@@ -1,0 +1,105 @@
+body{
+    margin: 0;
+    font-family: "Segoe UI", SegoeUI, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    line-height: 1.5;
+}
+#menu a{
+    text-decoration: none;
+    color: black;
+}
+.box{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+ul{
+    list-style-type: none;
+    justify-content: space-evenly;
+}
+.left{
+    justify-content: start;
+}
+.left li{
+    margin-right: 10px;
+}
+#menu{
+    padding: 0 24px;
+    height: 54px;
+}
+#logo{
+    margin-left: 10px;
+}
+#logo img{
+    height: 30px;
+    flex-grow: 1;
+}
+#midlinks{
+    justify-content: flex-start;
+    flex-grow: 3;
+}
+#rlinks{
+    flex-grow: 1.5;
+}
+#rlinks li a{
+    align-items: center;
+}
+#alert{
+    text-align: center;
+    padding: 2px 0;
+    background-color: #2B65B2;
+}
+#alert a{
+    color: white;
+    text-decoration: none;
+}
+#card{
+    position: absolute;
+    top:163px;
+    left:110px;
+    background-color: white;
+    padding: 15px 40px 25px 30px;
+}
+.clck{
+    color: white;
+    background-color: #2B65B2;
+    border: none;
+    padding: 7px;
+    font-weight: 600;
+}
+.scroll{
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+#scrollbar , .shop{
+    justify-content: center;
+}
+.shop li{
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 16px 24px;
+}
+
+#cards{
+    justify-content: center;
+    margin: 50px 45px;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    margin: 0 10px;
+    width: 23%;
+}
+.card-body{
+    flex-shrink: 1;
+    flex-basis: auto;
+    flex-grow: 1;
+}
+.card img{
+    width: 100%;
+}

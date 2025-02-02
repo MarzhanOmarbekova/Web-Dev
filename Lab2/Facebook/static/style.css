@@ -1,0 +1,125 @@
+body{
+    font-family: Helvetica, Arial, sans-serif;
+}
+.container{
+    background-color: #F2F4F7;
+    margin: 0;
+    padding: 0;
+}
+#main{
+    display: flex;
+    padding-top: 72px;
+    padding-bottom: 112px;
+    margin: 0 auto;
+    width: 980px;
+}
+#first-part{
+    width: 50%;
+    padding-right: 32px;
+}
+.welword{
+    width: 500px;
+    font-size: 28px;
+    line-height: 32px;
+    font-weight: normal;
+}
+.fb_logo{
+    height: 106px;
+    margin: -28px;
+    padding-top: 112px;
+}
+#second-part{
+    height: 456px;
+    width: 396px;
+}
+.log{
+    width: 364px;
+    margin:auto;
+}
+.field{
+    padding: 6px 0;
+}
+.form-part{
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, .1), 0px 8px 16px rgba(0, 0, 0, .1);
+    padding-top: 10px;
+    padding-bottom: 24px;
+    margin-top: 40px;
+    border-radius: 8px;
+}
+a{
+    text-decoration: none;
+}
+.logitem{
+    font-size: 17px;
+    padding: 14px;
+    border-radius: 6px;
+}
+.logbut{
+    background-color: #0866ff;
+    border: none;
+    color: #fff;
+    font-weight: bold;
+}
+.inputtext{
+    border: 1px solid #dddfe2;
+    width: 334px;
+}
+input.inputtext:focus{
+    border: 2px solid #0866ff;
+}
+#create-page{
+    margin-top: 28px;
+    font-size: 14px;
+    text-align: center;
+}
+.line{
+    border: 1px solid #dddfe2;
+    width: 357px;
+    margin: auto;
+}
+#newacc{
+    background-color: #42b72a;
+    border: none;
+    color: #fff;
+    font-weight: bold;
+}
+#blckbold{
+    color: black;
+    font-weight: bold;
+}
+#foot{ 
+    width: 1000px;
+    margin: 0 auto;  
+    color: #737373;
+    font-size: 12px;
+    padding-top: 30px;
+}
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.list2{
+    line-height: 1.6;
+}
+li{
+    padding-left: 10px;
+}
+#contentCurve{
+    border: 1px solid #dddfe2;
+    margin: 6px 9px 8px;
+}
+.lang{
+    color: #737373;
+}
+.mvl{
+    font-size: 11px;
+    padding: 20px 9px 20px;
+}
