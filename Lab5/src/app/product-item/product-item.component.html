@@ -1,0 +1,9 @@
+<div class="product-item">
+  <img [src]="product.imgUrl" alt="{{ product.name }}">
+  <h3>{{ product.name }}</h3>
+  <p>Price: {{product.price}}</p>
+  <p>Likes: {{product.likes}}</p>
+  <button (click)="goToKaspi()" >Show in Kaspi.kz</button>
+  <button (click)="increaseLike()">Like</button>
+  <button (click)="removeProduct()">Remove</button>
+</div>

@@ -1,0 +1,9 @@
+<h2>Products for {{ categoryName }}</h2>
+<button (click)="goBack()">Back to Categories</button>
+<div class="product-list">
+  @for(product of products; track product.id) {
+    <app-product-item
+      [product]="product"
+      (remove)="onRemoveProduct($event)"
+></app-product-item>  }
+</div>

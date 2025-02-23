@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Electronics",
+    "products": [
+      {
+        "id": 1,
+        "name":"Смарт-часы Apple Watch SE GPS Gen.2 2024 S/M 40 мм бежевый",
+        "description": "Корпус в трёх стильных цветах. Мощные датчики для информации о вашем здоровье и активности. Инновационные функции безопасности. Удобные способы оставаться на связи. Более быстрый двухъядерный процессор для повышенной производительности. Apple Watch SE полны достоинств, а теперь это ещё более выгодная покупка, чем когда‑либо.",
+        "price": "119 725 ₸",
+        "imgUrl": "https://resources.cdn-kaspi.kz/img/m/p/p55/p9b/5542335.png?format=gallery-medium",
+        "likes": 0,
+        "rating":5.0,
+        "kaspilink":"https://kaspi.kz/shop/p/apple-watch-se-gps-gen-2-2024-s-m-40-mm-bezhevyi-129172890/?c=750000000"
+      },
+      {
+        "id": 2,
+        "name": "Смарт-часы Xiaomi Redmi Watch 5 Active 51 мм черный-черный",
+        "description": "Redmi Watch 5 Active с большим дисплеем помогут вести активны образ жизни, контролировать ваше здоровье и повысить эффективность при решении повседневных задач.",
+        "price": "14 982 ₸",
+        "imgUrl": "https://resources.cdn-kaspi.kz/img/m/p/hec/h25/87197780049950.jpg?format=gallery-medium",
+        "likes": 0,
+        "rating":5.0,
+        "kaspilink": "https://kaspi.kz/shop/p/xiaomi-redmi-watch-5-active-51-mm-chernyi-chernyi-123879372/?c=750000000"
+      },
+      {
+        "id": 3,
+        "name": "Смарт-часы Huawei Watch GT 5 Pro 46 мм черный-черный",
+        "description": "Тринадцать новых тематических циферблатов дают большой простор вашему воображению при создании стильного образа: вы можете выбрать и спортивную версию циферблата, и классический вариант.",
+        "price": "113 951 ₸",
+        "imgUrl": "https://resources.cdn-kaspi.kz/img/m/p/h52/h7d/87248467787806.jpg?format=gallery-medium",
+        "likes": 0,
+        "rating":5.0,
+        "kaspilink": "https://kaspi.kz/shop/p/huawei-watch-gt-5-pro-46-mm-chernyi-chernyi-124097507/?c=750000000"
+      },
+      {
+        "id": 4,
+        "name": "Смарт-часы COLMI P28 Plus черный",
+        "description": "Смарт-часы Colmi P28 Plus. Соответствующие датчики помогают смарт-часам подсчитывать пройденное расстояние, затраченные калории, содержание кислорода в крови, артериальное давление.",
+        "price": "11 310 ₸",
+        "imgUrl": "https://resources.cdn-kaspi.kz/img/m/p/h7b/hd0/86051008020510.jpg?format=gallery-medium",
+        "likes": 0,
+        "rating":5.0,
+        "kaspilink": "https://kaspi.kz/shop/p/colmi-p28-plus-chernyi-106096505/?c=750000000"
+      },
+      {
+        "id": 5,
+        "name": "Смарт-часы Garmin Forerunner 165 черный-серый",
+        "description": "Двигайтесь только вперед — регистрируйтесь на забеги и блестяще готовьтесь к ним с новыми легкими в использовании беговыми смарт-часами с GPS - Forerunner 165!",
+        "price": "139 493 ₸",
+        "imgUrl": "https://resources.cdn-kaspi.kz/img/m/p/h72/h23/85318600196126.png?format=gallery-medium",
+        "likes": 0,
+        "rating":5.0,
+        "kaspilink": "https://kaspi.kz/shop/p/garmin-forerunner-165-chernyi-seryi-117095009/?c=750000000"
+      },
+      {
+        "id": 6,
+        "name": "Смарт-часы Samsung Galaxy Watch Ultra 47 мм серебристый-черный",
+        "description": "Откройте для себя новый уровень заботы о здоровье на базе AI",
+        "price": "14 982 ₸",
+        "imgUrl": "https://resources.cdn-kaspi.kz/img/m/p/h03/h68/86681927876638.jpg?format=gallery-medium",
+        "likes": 0,
+        "rating":5.0,
+        "kaspilink": "https://kaspi.kz/shop/p/samsung-galaxy-watch-ultra-47-mm-serebristyi-chernyi-122020632/?c=750000000"
+      },
+      {
+        "id": 7,
+        "name": "Смарт-часы Nepro100device NPD Maks Kids Watch черный",
+        "description": "Операционная система Android",
+        "price": "14 982 ₸",
+        "imgUrl": "https://resources.cdn-kaspi.kz/img/m/p/he0/h86/85135995076638.png?format=gallery-medium",
+        "likes": 0,
+        "rating":5.0,
+        "kaspilink": "https://kaspi.kz/shop/p/nepro100device-npd-maks-kids-watch-chernyi-116533653/?c=750000000"
+      },
+      {
+        "id": 8,
+        "name": "Смарт-часы ARTEO AS10 41 мм розовый",
+        "description": "Описание смарт-часов Arteo АS10",
+        "price": "14 982 ₸",
+        "imgUrl": "https://resources.cdn-kaspi.kz/img/m/p/pf4/p78/7030882.png?format=gallery-medium",
+        "likes": 0,
+        "rating":5.0,
+        "kaspilink": "https://kaspi.kz/shop/p/arteo-as10-41-mm-rozovyi-129639580/?c=750000000"
+      }
+    ]
+  },
+  {
+    "name": "Jewelry",
+    "products": [
+      {
+        "id": 1,
+        "name":"Пусеты белый бижутерный сплав, акрил",
+        "description": "Цвет материалазолотистый, белый\nЦвет вставкибелый",
+        "price": "134 ₸",
+        "imgUrl": "https://resources.cdn-kaspi.kz/img/m/p/p55/p9b/5542335.png?format=gallery-medium",
+        "likes": 0,
+        "rating":5.0,
+        "kaspilink": "https://kaspi.kz/shop/p/pusety-belyi-bizhuternyi-splav-akril-115934139/?c=750000000"
+      },
+      {
+        "id": 2,
+        "name": "Кольцо размер регулируемый бижутерный сплав, перламутр",
+        "description": "Примечаниезначение веса оттенка на фото и характеристики являются примерными усредненными и могут отличаться от фактических\nДля когодля женщин, для детей",
+        "price": "108 ₸",
+        "imgUrl": "https://resources.cdn-kaspi.kz/img/m/p/hec/h25/87197780049950.jpg?format=gallery-medium",
+        "likes": 0,
+        "rating":4.5,
+        "kaspilink": "https://kaspi.kz/shop/p/xiaomi-redmi-watch-5-active-51-mm-chernyi-chernyi-123879372/?c=750000000"
+      },
+      {
+        "id": 3,
+        "name": "Серьги Лепестки бижутерный сплав, без вставок",
+        "description": "Цвет вставкиотсутствует\nПримечаниезначение веса оттенка на фото и характеристики являются примерными усредненными и могут отличаться от фактических",
+        "price": "112 ₸",
+        "imgUrl": "https://resources.cdn-kaspi.kz/img/m/p/h52/h7d/87248467787806.jpg?format=gallery-medium",
+        "likes": 0,
+        "rating":5.0,
+        "kaspilink": "https://kaspi.kz/shop/p/ser-gi-lepestki-bizhuternyi-splav-bez-vstavok-110853997/?c=750000000"
+      },
+      {
+        "id": 4,
+        "name": "Серьги Жемчужное сердце нержавеющая сталь",
+        "description": "Вид изделиясерьги\nМатериалнержавеющая сталь",
+        "price": "195 ₸",
+        "imgUrl": "https://resources.cdn-kaspi.kz/img/m/p/h7b/hd0/86051008020510.jpg?format=gallery-medium",
+        "likes": 0,
+        "rating":4.8,
+        "kaspilink": "https://kaspi.kz/shop/p/ser-gi-zhemchuzhnoe-serdtse-nerzhavejuschaja-stal-iskusstvennyi-zhemchug-114776487/?c=750000000"
+      },
+      {
+        "id": 5,
+        "name": "Серьги MONTIE латунь, акрил, без вставок",
+        "description": "Цвет материалазолотистый\nЦвет вставкибордовый\nДля когодля женщин, для детей\nСтрана производительКитай",
+        "price": "250 ₸",
+        "imgUrl": "https://resources.cdn-kaspi.kz/img/m/p/h72/h23/85318600196126.png?format=gallery-medium",
+        "likes": 0,
+        "rating":5.0,
+        "kaspilink": "https://kaspi.kz/shop/p/garmin-forerunner-165-chernyi-seryi-117095009/?c=750000000"
+      }
+    ]
+  },
+  {
+    "name": "Clothes",
+    "products": [
+      {
+        "id": 1,
+        "name":"Рубашка NUR голубой",
+        "description": "Модель рубашка\nДля беременныхНет\nРазмер производителя48\nСоставшелк",
+        "price": "4 400 ₸",
+        "imgUrl": "https://resources.cdn-kaspi.kz/img/m/p/h96/h07/86562956771358.jpg?format=gallery-medium",
+        "likes": 0,
+        "rating":4.9,
+        "kaspilink": "https://kaspi.kz/shop/p/rubashka-nur-z-goluboi-48-121564911/?c=750000000"
+      },
+      {
+        "id": 2,
+        "name": "Национальный костюм бежевый",
+        "description": "Примечаниезначение веса оттенка на фото и характеристики являются примерными усредненными и могут отличаться от фактических\nДля когодля женщин, для детей",
+        "price": "3 800 ₸",
+        "imgUrl": "https://resources.cdn-kaspi.kz/img/m/p/hec/h25/87197780049950.jpg?format=gallery-medium",
+        "likes": 0,
+        "rating":4.5,
+        "kaspilink": "https://kaspi.kz/shop/p/natsional-nyi-kostjum-bezhevyi-122039105/?c=750000000"
+      },
+      {
+        "id": 3,
+        "name": "Национальный костюм Костюм серый",
+        "description": "Цвет вставкиотсутствует\nПримечаниезначение веса оттенка на фото и характеристики являются примерными усредненными и могут отличаться от фактических",
+        "price": "14 800 ₸",
+        "imgUrl": "https://resources.cdn-kaspi.kz/img/m/p/h52/h7d/87248467787806.jpg?format=gallery-medium",
+        "likes": 0,
+        "rating":5.0,
+        "kaspilink": "https://kaspi.kz/shop/p/natsional-nyi-kostjum-kostjum-seryi-118346579/?c=750000000"
+      },
+      {
+        "id": 4,
+        "name": "Бомбер белый",
+        "description": "Вид изделиясерьги\nМатериалнержавеющая сталь",
+        "price": "9 088 ₸",
+        "imgUrl": "https://resources.cdn-kaspi.kz/img/m/p/h7b/hd0/86051008020510.jpg?format=gallery-medium",
+        "likes": 0,
+        "rating":4.8,
+        "kaspilink": "https://kaspi.kz/shop/p/bomber-belyi-122015829/?c=750000000"
+      },
+      {
+        "id": 5,
+        "name": "Олимпийка черный, белый",
+        "description": "Цвет материалазолотистый\nЦвет вставкибордовый\nДля когодля женщин, для детей\nСтрана производительКитай",
+        "price": "6 400 ₸",
+        "imgUrl": "https://resources.cdn-kaspi.kz/img/m/p/h72/h23/85318600196126.png?format=gallery-medium",
+        "likes": 0,
+        "rating":5.0,
+        "kaspilink": "https://kaspi.kz/shop/p/olimpiika-chernyi-belyi-120229310/?c=750000000"
+      }
+    ]
+  },
+  {
+    "name" : "Cosmetics",
+    "products": [
+      {
+        "id": 1,
+        "name":"Mocallure тени прессованные Mocmallure 02",
+        "description": "Модель рубашка\nДля беременныхНет\nРазмер производителя48\nСоставшелк",
+        "price": "648 ₸",
+        "imgUrl": "https://resources.cdn-kaspi.kz/img/m/p/p7b/p01/9495279.jpg?format=preview-large",
+        "likes": 0,
+        "rating":4.9,
+        "kaspilink": "https://kaspi.kz/shop/p/mocallure-teni-pressovannye-mocmallure-02-121017364/?c=750000000"
+      },
+      {
+        "id": 2,
+        "name": "Topface Instyle тени прессованные Pro palette",
+        "description": "Примечаниезначение веса оттенка на фото и характеристики являются примерными усредненными и могут отличаться от фактических\nДля когодля женщин, для детей",
+        "price": "2 799 ₸",
+        "imgUrl": "https://resources.cdn-kaspi.kz/img/m/p/h11/hfe/64213637922846.jpg?format=preview-large",
+        "likes": 0,
+        "rating":4.5,
+        "kaspilink": "https://kaspi.kz/shop/p/topface-instyle-teni-pressovannye-pro-palette-eyeshadow-019-102591198/?c=750000000"
+      },
+      {
+        "id": 3,
+        "name": "Mocallure тени прессованные Miracle 3",
+        "description": "Цвет вставкиотсутствует\nПримечаниезначение веса оттенка на фото и характеристики являются примерными усредненными и могут отличаться от фактических",
+        "price": "981 ₸",
+        "imgUrl": "https://resources.cdn-kaspi.kz/img/m/p/h46/h2c/87181801357342.jpg?format=preview-large",
+        "likes": 0,
+        "rating":5.0,
+        "kaspilink": "https://kaspi.kz/shop/p/mocallure-teni-pressovannye-miracle-3-123799181/?c=750000000"
+      },
+      {
+        "id": 4,
+        "name": "Бомбер белый",
+        "description": "Вид изделиясерьги\nМатериалнержавеющая сталь",
+        "price": "9 088 ₸",
+        "imgUrl": "https://resources.cdn-kaspi.kz/img/m/p/h7b/hd0/86051008020510.jpg?format=gallery-medium",
+        "likes": 0,
+        "rating":4.8,
+        "kaspilink": "https://kaspi.kz/shop/p/bomber-belyi-122015829/?c=750000000"
+      },
+      {
+        "id": 5,
+        "name": "Meis тени прессованные Classic 01",
+        "description": "Цвет материалазолотистый\nЦвет вставкибордовый\nДля когодля женщин, для детей\nСтрана производительКитай",
+        "price": "922 ₸",
+        "imgUrl": "https://resources.cdn-kaspi.kz/img/m/p/hdb/hb8/85499242250270.jpg?format=preview-large",
+        "likes": 0,
+        "rating":5.0,
+        "kaspilink": "https://kaspi.kz/shop/p/meis-teni-pressovannye-classic-01-117669641/?c=750000000"
+      }
+    ]
+  }
+]

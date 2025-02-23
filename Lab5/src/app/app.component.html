@@ -1,0 +1,9 @@
+<h1>Categories</h1>
+<ul class="bar">
+  @for (category of categories; track category.name) {
+    <li (click)="goToProducts(category.name)" style="cursor: pointer;">
+      {{ category.name }}
+    </li>
+  }
+</ul>
+<router-outlet />
