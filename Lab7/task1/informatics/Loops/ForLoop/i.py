@@ -1,7 +1,8 @@
 n = int(input())
-x = 2
-while x<=n:
-    if n%x==0:
-        print(x)
-        exit()
-    x=x+1
+count = 0
+
+for i in range(1, int(n**0.5) + 1):
+    if n % i == 0:
+        count += 2 if i * i != n else 1
+
+print(count)

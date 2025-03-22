@@ -1,7 +1,5 @@
-n = int(input())
-x = 2
-while x<=n:
-    if n%x==0:
-        print(x)
+x = int(input())
+for i in range(2, x + 1):
+    if x % i == 0:
+        print(i)
         exit()
-    x=x+1

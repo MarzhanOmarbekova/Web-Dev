@@ -1,3 +1,7 @@
-n = int(input())  
-arr = list(map(int, input().split()))  
-print(*arr[::2])  
+# n = int(input())
+# arr = list(map(int, input().split()))
+# print(*arr[::2])
+
+n = int(input())
+arr = list(map(int, input().split()))
+print(*arr[::2])

@@ -1,8 +1,7 @@
-x = int(input())
-d = int(input())
-count = 0
-while x>0:
-    if x%10 == d:
-        count+=1
-    x//=10
-print(count)
+x = input()
+d = input()
+sum = 0
+for i in x:
+    if i==d:
+        sum+=1
+print(sum)
