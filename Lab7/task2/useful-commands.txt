@@ -1,0 +1,38 @@
+Installing virtualenv:
+pip install virtualenv
+
+Verify installation:
+virtualenv --version
+
+Create a virtual environment:
+virtualenv myenv
+
+Activate it:
+
+Windows: myenv\Scripts\activate
+Mac/Linux: source myenv/bin/activate
+
+To deactivate:
+deactivate
+
+Create an Empty Django Project:
+1.Make sure the virtual environment is activated.
+2.Install Django: pip install django
+3.Create a Django project: django-admin startproject myproject
+4.Navigate into the project folder: cd myprojectname
+5.Run the server to test: python manage.py runserver
+
+Create SuperUser and Log in to the Admin Site
+The Django admin site allows us to manage users, models, and data through a built-in interface.
+1.Run migrations ( Django applies database migrations, which means it creates or updates database tables.):
+python manage.py migrate
+2.Create a superuser:
+python manage.py createsuperuser
+(3)Start the server again if needed:
+python manage.py runserver
+4.Open http://127.0.0.1:8000/admin/ in a browser.
+5.Log in using the superuser credentials you created.
+
+This updates the database:
+python manage.py makemigrations
+python manage.py migrate
