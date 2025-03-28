@@ -1,0 +1,39 @@
+# Byte-compiled / binary files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+*.egg-info/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Django-specific files
+db.sqlite3  # Ignore SQLite database (if using PostgreSQL/MySQL, configure .env instead)
+media/      # Ignore uploaded media files (only if stored locally)
+staticfiles/  # If using Django collectstatic for static files
+
+# Logs and Debugging
+*.log
+logs/
+debug.log
+
+# Environment Variables / Secrets
+.env
+*.env  # If using environment variables for secrets
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# MacOS and Windows system files
+.DS_Store
+Thumbs.db
+
+# Migrations (optional: keep if sharing with team)
+**/migrations/*.py
+!**/migrations/__init__.py
