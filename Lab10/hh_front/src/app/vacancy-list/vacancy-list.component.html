@@ -1,0 +1,8 @@
+<h2>Vacancies</h2>
+<button (click)="backToCompanies()">Back to Companies</button>
+
+<ul>
+  <li *ngFor="let vacancy of vacancies">
+    {{ vacancy.name }} — {{ vacancy.salary }}тг — {{ vacancy.description }}
+  </li>
+</ul>
